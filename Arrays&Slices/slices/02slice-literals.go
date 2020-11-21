@@ -1,3 +1,5 @@
+// Do not worry  about the errors, because there needs to be only one main function
+// This is for Practice only
 package main
 
 import "fmt"
